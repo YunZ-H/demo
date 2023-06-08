@@ -7,5 +7,9 @@ public class CoreApplicationStarter {
         System.out.println("demo");
         System.out.println("demo");
         System.out.println("2222");
+
+        System.out.println("11111");
+        System.out.println("11111");
+        System.out.println("11111");
     }
 }
